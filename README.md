@@ -1,1 +1,3 @@
-# jvnr.fr
+# Portfolio JVNR
+
+Pure static, no bullshit
